@@ -3,7 +3,7 @@
   "wake_word": "may zhul",
   "author": "Eldridge",
   "website": "https://eldrid.ge",
-  "model": "stream_state_internal_quant.tflite",
+  "model": "may_zhul_low.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
